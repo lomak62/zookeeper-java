@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Topics/Array/Initializing an array of integers/out/
+/Topics/Array/Initializing an array of integers/out/production/classes/
+/Topics/Formatted output/The battle for Mathematics/out/
+/Topics/Formatted output/The battle for Mathematics/out/production/classes/
+/Topics/Primitive and reference types/Creating a primitive/out/
+/Topics/Primitive and reference types/Creating a primitive/out/production/classes/
+/Topics/The while and do-while loops/The smallest value/out/
+/Topics/The while and do-while loops/The smallest value/out/production/classes/
+/Zookeeper (Java)/task/build/
+/Zookeeper (Java)/task/out/
+/Zookeeper (Java)/task/out/production/classes/
